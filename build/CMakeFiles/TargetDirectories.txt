@@ -1,0 +1,3 @@
+C:/Users/Liamn/OneDrive/Documents/PlatformIO/Projects/Termoardy/build/CMakeFiles/Termoardy.dir
+C:/Users/Liamn/OneDrive/Documents/PlatformIO/Projects/Termoardy/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Liamn/OneDrive/Documents/PlatformIO/Projects/Termoardy/build/CMakeFiles/ZERO_CHECK.dir

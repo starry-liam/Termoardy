@@ -1,0 +1,10 @@
+^C:\USERS\LIAMN\ONEDRIVE\DOCUMENTS\PLATFORMIO\PROJECTS\TERMOARDY\BUILD\CMAKEFILES\0CEEA47AC63C74411D13E1216CB38D4C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Liamn/OneDrive/Documents/PlatformIO/Projects/Termoardy -BC:/Users/Liamn/OneDrive/Documents/PlatformIO/Projects/Termoardy/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Liamn/OneDrive/Documents/PlatformIO/Projects/Termoardy/build/Termoardy.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
