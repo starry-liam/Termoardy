@@ -13,6 +13,8 @@ public:
 
 private:
     Board board_;
+    std::vector<std::string> categories_;
+    std::vector<std::vector<int>> points_;
 };
 
 #endif // GAME_H
